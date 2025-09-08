@@ -34,7 +34,7 @@ With the rise of misinformation on YouTube, verifying content is crucial. This p
 
 ---
 Results:
-[Screenshot1.png](results/Screenshot1.png)
+![Screenshot1.png](results/Screenshot1.png)
 
 ## 🛠 Installation
 

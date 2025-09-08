@@ -1,0 +1,54 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Results / screenshots (optional)
+results/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Python bytecode
+*.pyc
+
+# pipenv / poetry / other virtual env files
+Pipfile.lock
+poetry.lock
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage

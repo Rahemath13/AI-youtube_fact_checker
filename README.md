@@ -34,7 +34,7 @@ With the rise of misinformation on YouTube, verifying content is crucial. This p
 
 ---
 Results:
-![Fact Check Result](results/Screenshot1.png)
+![Fact Check Result](results/screenshot1.png)
 
 ## 🛠 Installation
 

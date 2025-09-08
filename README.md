@@ -33,8 +33,11 @@ With the rise of misinformation on YouTube, verifying content is crucial. This p
 - **Optional Screenshots**: Attach images or screenshots to support verification.  
 
 ---
-Results:
-![Fact Check Result](results/screenshot1.png)
+### Results
+
+Here is an example output from the YouTube Fact Checker:
+
+![Fact Check Result](screenshot1.png)
 
 ## 🛠 Installation
 

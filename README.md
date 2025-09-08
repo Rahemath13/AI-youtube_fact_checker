@@ -37,7 +37,7 @@ With the rise of misinformation on YouTube, verifying content is crucial. This p
 
 Here is an example output from the YouTube Fact Checker:
 
-![Fact Check Result](screenshot1.png)
+![Fact Check Result](Screenshot1.png)
 
 ## 🛠 Installation
 
